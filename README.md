@@ -5,7 +5,7 @@
 
   <img src="cirrus-clouds.jpg" alt=“Cirrus Clouds”
  
-<img src="pexels-photo-1451606.jpeg" alt=“Cumulus Clouds”
+<img src="mountain-7097104_1280.jpg" alt=“Cumulus Clouds”
 </p>
   </body>
 </html>
