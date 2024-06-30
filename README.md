@@ -6,3 +6,11 @@
 
 </body>
 </html>
+<DOCTYPE html>
+<html>
+<body>
+<p> <img src="cirrus-clouds.jpg" alt=“Cirrus Clouds” 
+<img src="cirrus-clouds.jpg" alt="Cirrius clouds">
+
+</body>
+</html>
