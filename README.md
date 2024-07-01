@@ -13,6 +13,9 @@ width="200px" height="200px"/>
 width="200px" height="200px"/>
 <hr>
 <p><b>Cumulus Clouds</b></p>
+
+Sourced from <a href="https://pixabay.com/photos/mountain-cloud-sky-nature-summit-7097104/">Pixabay</a>
+
 <p> <img src="mountain-7097104_1280.jpg" alt=“Cumuls Clouds” 
 width="200px" height="200px"/>
 
