@@ -1,5 +1,4 @@
 <DOCTYPE html>
-<html>
 <body>
 <h1>Clouds!!</h1>  
 <p><b>Cumulonimbus Clouds</b></p>
@@ -15,4 +14,4 @@ Sourced from <a href="https://pixabay.com/photos/mountain-cloud-sky-nature-summi
 <p> <img src="mountain-7097104_1280.jpg" alt=“Cumuls Clouds” 
 width="200px" height="200px"/>
 </body>
-</html>
+
