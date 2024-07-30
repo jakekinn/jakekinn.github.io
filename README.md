@@ -4,7 +4,7 @@
 
 <p>1. Search up <a href="https://www.youtube.com">https://www.youtube.com</a></p>
 
-<img src="Screenshot 2024-07-30" alt="Girl in a jacket">
+<img src="Screenshot 2024-07-30 at 3.13.49 PM.png" alt="Girl in a jacket">
 <hr>
 <p>2. Click on what ever video you want to watch</p>
 
