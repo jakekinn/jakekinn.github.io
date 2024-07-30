@@ -8,14 +8,14 @@
 <hr>
 <p>2. Click on what ever video you want to watch</p>
 
-<img src="img_girl.jpg" alt="Girl in a jacket"
+<img src="img_girl.jpg" alt="Girl in a jacket">
 <hr>
 <p>3. Now you want to press the share button</p>
-<img src="img_girl.jpg" alt="Girl in a jacket"
+<img src="
+Screenshot 2024-07-30 at 3.18.57 " alt="Girl in a jacket">
 <hr>
 <p>and then press the small icon that says Embed</p>
-
-<img src="img_girl.jpg" alt="Girl in a jacket"
+<img src="img_girl.jpg" alt="Girl in a jacket">
 <hr>
 <p>And thats all here is a video example!!</p>
 
