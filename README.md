@@ -12,7 +12,7 @@
 <img src="Screenshot 2024-07-30 at 3.18.57 PM.png" alt="Girl in a jacket">
 <hr>
 <p>Then press the small icon that says Embed</p>
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<img src="Screenshot 2024-07-30 at 4.06.17 PM" alt="Girl in a jacket">
 <hr>
 <p>And thats all here is a video example!!</p>
 
